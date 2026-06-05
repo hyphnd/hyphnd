@@ -6,7 +6,7 @@ Tech Stack
 Featured Project
 ---
 Connect with me
-<a href= "github.com/hyphnd">
+<a href= "github.com/hyphnd">github</a>
 <!--
 **hyphnd/hyphnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
