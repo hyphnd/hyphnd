@@ -1,12 +1,22 @@
 ## Hello, I'm Emart James Capalaran 👋
-
+IT Student from the University of the Cordilleras
+Mostly focuses on Frontend
+Made the Documentation on AGDUWA Garage Queueing System
 ---
-Tech Stack
+##Tech Stack
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img src="">
+  <img src="">
+  <img src="">
+</p>
 ---
-Featured Project
+##Featured Project
+<a href="agdoaq.vercel.app"> Agduwa Garage Queueing System </a>
+  <p>A simple but automated queueing system made for Garage Drivers.</p>
 ---
 Connect with me
-<a href= "github.com/hyphnd">github</a>
+<a href="github.com/hyphnd">Github</a> * <a href="james.donguez01@gmail.com">Gmail</a>
 <!--
 **hyphnd/hyphnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
