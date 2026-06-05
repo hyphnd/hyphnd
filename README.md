@@ -1,13 +1,26 @@
 ## Hello, I'm Emart James Capalaran 👋
 <p align="left">
   <img align="left" width="100" alt="UC-logo" src="https://github.com/user-attachments/assets/e49ece73-8f41-4378-bb67-e9a3f048fd1a" />
-    🏫IT Student from the University of the Cordilleras<br>
+    🏫 Information Technology Student <br>
+    💡 I focus on web system documentation, UI understanding, and frontend collaboration  
     🌱 Learning: Advanced JavaScript and backend development<br>
     🎯 Goal: To become a full-stack web developer<br>
-    📌Baguio City<br>
+    📌 Philippines
 </p>
 <br clear="left">
 
+---
+
+## 🚀 About Me
+
+I am an IT student involved in web-based system development projects, with a strong focus on **technical documentation, system analysis, and frontend collaboration**. I enjoy translating ideas and system requirements into clear documentation that helps guide developers and improve system structure.
+
+I also have experience working with basic frontend technologies and collaborating in group-based development projects.
+
+- 🔭 Currently working on: Web-based Queueing System documentation  
+- 🌱 Learning: Frontend development (HTML, CSS, JavaScript) and UI/UX basics  
+- 🎯 Goal: To become a full-stack developer with strong frontend and system design skills  
+- ⚡ Strength: Clear technical writing and structured system thinking  
 
 ---
 
