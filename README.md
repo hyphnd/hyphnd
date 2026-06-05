@@ -5,7 +5,7 @@ Made the Documentation on AGDUWA Garage Queueing System
 ---
 ##Tech Stack
 <p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
   <img src="">
   <img src="">
   <img src="">
