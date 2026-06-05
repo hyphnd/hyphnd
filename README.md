@@ -1,9 +1,10 @@
 ## Hello, I'm Emart James Capalaran 👋
 <p align="left">
-  <img align="left" width="80" alt="UC-logo" src="https://github.com/user-attachments/assets/e49ece73-8f41-4378-bb67-e9a3f048fd1a" />
-    IT Student from the University of the Cordilleras<br>
-    Mostly focuses on Frontend<br>
-    Made the Documentation on AGDUWA Garage Queueing System
+  <img align="left" width="100" alt="UC-logo" src="https://github.com/user-attachments/assets/e49ece73-8f41-4378-bb67-e9a3f048fd1a" />
+    🏫IT Student from the University of the Cordilleras<br>
+    🌱 Learning: Advanced JavaScript and backend development<br>
+    🎯 Goal: To become a full-stack web developer<br>
+    📌Baguio City<br>
 </p>
 <br clear="left">
 
@@ -11,29 +12,43 @@
 ---
 
 
-## Languages and Tools
-  <p align="left"> 
-    <img width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-    <img width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-    <img width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-    <img width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-    <img width="40px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    
-  </p>
+## 🛠️ Frontend Skills
 
-  
+### 💻 Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+</p>
+
+### 🎨 UI / Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 ---
 
 
 ## Featured Project
-  <a href="agdoaq.vercel.app"> Agduwa Garage Queueing System </a>
-    <p>A simple but automated queueing system made for Garage Drivers.</p>
-
-
+   **Next in Line**
+    <p>A simple web-based automated queueing system made for Garage Drivers.</p>
+    **My Role: Technical Writer / Documentation Lead**
+    - 📄 Developed the system manuscript (research paper / documentation)<br>
+    - 📊 Helped analyze user needs and system objectives<br>
+    - 🤝 Collaborated with developers during system design and evaluation<br>
+    - 📝 Ensured proper documentation of features such as automated queueing and performance analytics<br>
+    
 ---
 
 
-## Connect with me
-  <a href="github.com/hyphnd">Github</a> * <a href="james.donguez01@gmail.com">Gmail</a>
+## Connect with me📬
+  Gmail: james.donguez01@gmail.com <br>
+  Github: github.com/hyphnd <br>
+  LinkedIn: [linkedin.com/ej-capalaran](https://www.linkedin.com/in/ej-capalaran/) <br>
+  
 <!--
 **hyphnd/hyphnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
