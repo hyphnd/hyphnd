@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello, I'm Emart James Capalaran 👋
 
+---
+Tech Stack
+---
+Featured Project
+---
+Connect with me
+<a href= "github.com/hyphnd">
 <!--
 **hyphnd/hyphnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
